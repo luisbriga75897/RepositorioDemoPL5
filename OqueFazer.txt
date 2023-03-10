@@ -1,0 +1,5 @@
+- 1º Aluno cria o repositório 
+- 2º Aluno cria um projeto no repositório
+- Todos os alunos clonam o repositório
+- Todos os alunos contribuem para o projeto c/ 1 ficheiro criado na sua branch 
+- Efetuar a merge das soluções
